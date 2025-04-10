@@ -1,0 +1,2 @@
+git config --global user.name gui777x
+git config --global user.email guizin.clementino@gmail.com
